@@ -1,0 +1,68 @@
+body{
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+}
+.bottom-container{
+  float:left;
+  width:100%;
+  background-color: hsl(179, 62%, 46%);
+  color: white;
+  overflow: hidden;
+}
+.bottom-left{
+
+  float: left;
+  width: auto;
+  position:relative;
+  left: 10%;
+
+}
+.bottom-right{
+  float: left;
+  width: auto;
+  position: relative;
+  left: 70%;
+}
+#community{
+  color: hsl(179, 62%, 43%);
+}
+.container{
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+  float: left;
+  padding-bottom: 20px;
+}
+#cost{
+  display:inline-block;
+  padding-right: 4px;
+  position: relative;
+  bottom: 20px;
+}
+#full{
+  position: relative;
+  bottom: 40px;
+  margin-top: 10px;
+}
+h3{
+  padding-top: 20px;
+}
+#monthly{
+  position:relative;
+  bottom: 20px;
+  color: hsl(204, 43%, 93%);
+}
+.sign-up{
+  background-color: hsl(71, 73%, 54%);
+  display: inline;
+  padding: 10px 80px 10px 80px;
+  border-radius: 8%;
+  position: relative;
+  bottom: 5px;
+}
+.top-container{
+  padding-left: 20px;
+  padding-bottom: 40px;
+}
+#hassle{
+  color: hsl(71, 73%, 54%);
+}
